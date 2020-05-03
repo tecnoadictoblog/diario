@@ -1,2 +1,2 @@
-# tecnoadicto.github.io
-Mis cacharreos
+# Diario personal
+Mis historias
